@@ -58,7 +58,7 @@ Analyser les ventes en ligne pour :
 
 | Fichier / Dossier | Description |
 |-------------------|-------------|
-| `data_cleaned_uncleaned/online_retail_clean.csv` | Données nettoyées et non nttoyées |
+| `data_cleaned_uncleaned/online_retail_clean.zip` | Données nettoyées zippé|
 | `notebook/ecommerce_notebook.ipynb` | Code Python de traitement des données |
 | `dashboard/online_retail.pbix` | Fichier Power BI interactif |
 | `README.md` | Description complète du projet |
